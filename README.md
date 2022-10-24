@@ -5,6 +5,8 @@
 example:
         python automation.py -t
 args:
+
+
 -t      delay time, default 3 seconds, begin to enumerate after Value seconds, this must be an integer
         you can delay a few seconds and make a window active so automation can enumerate the 
 active window
